@@ -18,3 +18,10 @@ The project considered the following key features:
 • Slope: The slope analysis highlighted the topographical variations in Arco Seco, with steeper slopes generally leading to higher surface runoff and less groundwater infiltration. This feature aided in identifying areas with favorable conditions for groundwater recharge.
 
 By integrating these features in QGIS, the project generated a comprehensive map of groundwater potential zones in Arco Seco, indicating areas with the highest probability of groundwater availability. This map can serve as a valuable resource for local authorities, stakeholders, and environmental planners in their efforts to ensure sustainable water resource management and regional development.
+
+---
+
+## 👨‍💻 Author
+**Tamir Chong**  
+📫 [tamir-chong@hotmail.com](mailto:tamir-chong@hotmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tamirchong/) 
